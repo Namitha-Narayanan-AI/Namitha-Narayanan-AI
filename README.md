@@ -1,7 +1,7 @@
 # Hi, I'm Namitha Narayanan 👋
 
 **MSc Artificial Intelligence · Heriot-Watt University (3.6 GPA)**  
-PhD applicant in radiomics and radiogenomics for precision oncology.
+PhD applicant in medical AI for oncology, with interests in breast cancer screening, radiomics, radiogenomics, and responsible clinical AI evaluation.
 
 Based in Kerala, India · Open to PhD positions worldwide
 
