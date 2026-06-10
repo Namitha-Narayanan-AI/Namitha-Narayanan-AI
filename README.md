@@ -1,24 +1,26 @@
+```markdown
 # Hi, I'm Namitha Narayanan 👋
 
 **MSc Artificial Intelligence · Heriot-Watt University (3.6 GPA)**  
-PhD applicant in medical AI for oncology, with interests in breast cancer screening, radiomics, radiogenomics, and responsible clinical AI evaluation.
+PhD applicant in medical AI for oncology, with interests in cancer imaging, breast cancer screening, radiomics, radiogenomics, and responsible clinical AI evaluation.
 
-Based in Kerala, India · Open to PhD positions worldwide
+Based in Kerala, India · Open to funded PhD, research assistant, and junior research engineering opportunities worldwide
 
 ---
 
 ## Research focus
 
-I'm working toward a PhD in **radiomics and radiogenomics** — extracting quantitative features from tumour images and linking them to genomic data (gene expression, mutations, drug response) to discover imaging biomarkers and personalise cancer treatment.
+I'm building toward research in **medical AI for oncology**, especially where medical imaging, clinical data, and responsible model evaluation can support better diagnosis, risk assessment, treatment planning, and follow-up decisions.
 
-My MSc dissertation on medical image concept detection gave me a solid foundation in radiology image pipelines and deep learning. I'm now building toward imaging-genomics fusion: using radiomic features from CT/MRI scans alongside molecular data to find clinically actionable patterns in precision oncology.
+My MSc dissertation on medical image concept detection gave me a foundation in radiology image pipelines, multi-label deep learning, and evaluation beyond accuracy. I am now developing a focused portfolio around oncology imaging, breast cancer AI, radiomics/radiogenomics, reproducible deep learning workflows, and clinically meaningful model evaluation.
 
 Current interests:
-- Radiomic feature extraction and imaging biomarker discovery
-- Radiogenomics — linking imaging phenotypes to genomic profiles
-- Deep learning for tumour characterisation (CNNs, multi-modal fusion)
-- Treatment response prediction from imaging and genomic data
-- Reproducible and rigorous clinical AI evaluation
+- Medical image analysis and deep learning for oncology
+- Breast cancer screening and imaging-based risk assessment
+- Radiomics and quantitative imaging biomarkers
+- Radiogenomics and multimodal oncology AI
+- Explainable and responsible clinical AI
+- Reproducible model evaluation using clinically meaningful metrics
 
 ---
 
@@ -26,19 +28,29 @@ Current interests:
 
 | Repository | What it is |
 |---|---|
-| [oncology-imaging-concept-detection](https://github.com/Namitha-Narayanan-AI/oncology-imaging-concept-detection) | Reproducible deep learning workspace for oncology imaging and concept detection — extending my MSc dissertation toward radiomic feature pipelines |
-| [monai-mednist-baseline](https://github.com/Namitha-Narayanan-AI/monai-mednist-baseline) | Medical image classification baseline (MONAI + PyTorch) on MedNIST · 0.9986 val accuracy · full evaluation with confusion matrix and F1 |
+| [oncology-imaging-concept-detection](https://github.com/Namitha-Narayanan-AI/oncology-imaging-concept-detection) | Reproducible deep learning workspace for oncology imaging and medical image concept detection, extending my MSc dissertation toward clinically oriented evaluation and future radiomics workflows |
+| [monai-mednist-baseline](https://github.com/Namitha-Narayanan-AI/monai-mednist-baseline) | Medical image classification baseline using MONAI and PyTorch on MedNIST, with preprocessing, validation metrics, confusion matrix analysis, precision, recall, and F1-score |
+| [breast-cancer-classification](https://github.com/Namitha-Narayanan-AI/breast-cancer-classification) | Machine learning pipeline for diagnostic breast cancer classification, focused on structured preprocessing, baseline modelling, metric comparison, and clear documentation of model limitations |
 
 ---
 
 ## Background
 
-- 🎓 MSc AI — Heriot-Watt University, Edinburgh (2022–2023) · Dissertation: *Investigating Concept Detection Techniques in Medical Images*
-- 🔬 ML Research Engineer — Invesdwin GmbH (Dec 2025–present) · backtesting validation, reproducible experimentation
-- 🧪 ML Research Intern — Heriot-Watt / 123 Invest Group (2023) · optimisation algorithms: Bayesian, PSO, SMAC3, Dragonfly
-- 🎓 B.Tech Computer Science — College of Engineering, Munnar (2016–2020)
+- 🎓 MSc Artificial Intelligence — Heriot-Watt University, Edinburgh (2022–2023)  
+  Dissertation: *Investigating Concept Detection Techniques in Medical Images*
 
-**Stack:** Python · PyTorch · MONAI · PyRadiomics · scikit-learn · Java · SQL · Git
+- 🔬 Research Engineer — Machine Learning, Invesdwin GmbH (Dec 2025–present)  
+  Research-oriented computational validation, reproducible experimentation, structured data workflows, debugging, and technical documentation
+
+- 🧪 Machine Learning Research Intern — Heriot-Watt University / 123 Invest Group (2023)  
+  Optimisation algorithms, Java/Python workflows, research documentation, and supervisor-led progress reviews
+
+- 👩‍🏫 Teaching Assistant — Java and Machine Learning, Heriot-Watt University (2023–2024)  
+  Supported programming and machine learning learning activities through tutorials, debugging support, and model workflow explanations
+
+- 🎓 B.Tech Computer Science and Engineering — College of Engineering, Munnar (2016–2020)
+
+**Stack:** Python · PyTorch · PyTorch Lightning · MONAI · TorchVision · scikit-learn · Pandas · NumPy · Java · SQL · Git/GitHub
 
 ---
 
@@ -51,4 +63,5 @@ Current interests:
 
 ---
 
-*Actively building my research portfolio in radiomics and radiogenomics. Always happy to discuss imaging biomarkers, precision oncology AI, or potential PhD opportunities.*
+*Actively building my research portfolio in medical AI for oncology. Always happy to discuss cancer imaging, breast cancer AI, radiomics/radiogenomics, responsible clinical AI evaluation, or potential PhD and research opportunities.*
+```
