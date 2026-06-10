@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Namitha Narayanan 👋
 
 **MSc Artificial Intelligence · Heriot-Watt University (3.6 GPA)**  
@@ -64,4 +63,3 @@ Current interests:
 ---
 
 *Actively building my research portfolio in medical AI for oncology. Always happy to discuss cancer imaging, breast cancer AI, radiomics/radiogenomics, responsible clinical AI evaluation, or potential PhD and research opportunities.*
-```
