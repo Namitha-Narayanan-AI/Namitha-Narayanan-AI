@@ -3,7 +3,7 @@
 **MSc Artificial Intelligence · Heriot-Watt University (3.6 GPA)**  
 PhD applicant in medical AI for oncology, with interests in cancer imaging, breast cancer screening, radiomics, radiogenomics, and responsible clinical AI evaluation.
 
-Based in Kerala, India · Open to funded PhD, research assistant, and junior research engineering opportunities worldwide
+Based in Kerala, India 
 
 ---
 
