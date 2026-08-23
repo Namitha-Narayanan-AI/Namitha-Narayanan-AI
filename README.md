@@ -24,40 +24,43 @@
 
 ---
 
-## 🧬 Research focus
+## 🧬 Research interests & focus
 
-I work at the intersection of **machine learning, medical imaging, and oncology**, with a particular interest in computational methods that move beyond isolated predictions toward **lesion-level understanding, quantitative imaging, longitudinal disease analysis, and clinically meaningful AI**.
+I work at the intersection of **machine learning, medical imaging, and oncology**, with a growing interest in quantitative and longitudinal approaches that move beyond isolated predictions toward **lesion-level understanding, tumour characterisation, disease progression, and clinically meaningful AI**.
 
-My MSc research in medical image concept detection introduced me to radiological image pipelines, multi-label deep learning, and evaluation beyond simple accuracy. My current independent work extends that foundation into **3D oncology imaging and tumour characterisation**.
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🔬 Imaging & Oncology
 
-* Medical image analysis
-* Breast cancer imaging
-* 3D lesion representation
-* Tumour characterisation
-* Longitudinal cancer imaging
-* Treatment-response analysis
+- Medical image analysis
+- Breast cancer imaging
+- 3D lesion representation
+- Tumour characterisation
+- Longitudinal cancer imaging
+- Treatment-response analysis
+- Quantitative imaging biomarkers
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 Computational Methods
+### 🧠 Computational&nbsp;Methods
 
-* Deep learning
-* Multimodal learning
-* Radiomics / radiogenomics
-* Explainable clinical AI
-* Robust model evaluation
-* Clinically meaningful metrics
+- Deep learning
+- Multimodal learning
+- Radiomics / radiogenomics
+- Explainable clinical AI
+- Robust model evaluation
+- Domain generalisation
+- Clinically meaningful metrics
 
 </td>
 </tr>
 </table>
+
+My MSc research in medical image concept detection introduced me to radiological image pipelines, multi-label deep learning, and evaluation beyond simple accuracy. My current independent work extends that foundation into **3D oncology imaging, lesion-level modelling, and radiological tumour characterisation**.
 
 ---
 
@@ -147,7 +150,7 @@ My work includes **online learning, time-series modelling, cross-implementation 
 
 ---
 
-## 🌱 Where my research is heading
+## 🌱 Questions I'm exploring
 
 <table>
 <tr>
